@@ -32,7 +32,7 @@ import java.util.Random;
 //import static displayFramework.SwingConsole.runFrame;
 /**
  *
- * @author jelu
+ * @author ja
  */
 class PianoFrame extends JFrame{
     static DrawingAppPanel dp=new DrawingAppPanel();
